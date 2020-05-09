@@ -7,7 +7,7 @@ To study the feasibility of the PV sheet for gesture recognition, we crafted a p
 		
 Experimental results show that with the proposed prototype it is possible to detect six distinct hand gestures with average overall accuracy of _86.1%_. The best performing classifier, Random Forest, has achieved _97.2%_ overall accuracy results on testing data. 
 
-Proposal accepted for the Workshop on self-powered sustainable interfaces and interactions (SelfSustainableCHI 2020).
+Proposal accepted for the CHI 2020 Workshop on self-powered sustainable interfaces and interactions (SelfSustainableCHI 2020).
 
 [Proposal](https://cs.swansea.ac.uk/~SelfSustainableCHI/papers/Potential%20of%20Large%20Area%20Photovoltaic%20Sheets%20as%20Indoor%20Interactive%20Surfaces.pdf)
 
