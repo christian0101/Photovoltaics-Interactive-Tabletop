@@ -9,9 +9,9 @@ Experimental results show that with the proposed prototype it is possible to det
 
 Proposal accepted for the CHI 2020 Workshop on self-powered sustainable interfaces and interactions (SelfSustainableCHI 2020).
 
-[Proposal](https://cs.swansea.ac.uk/~SelfSustainableCHI/papers/Potential%20of%20Large%20Area%20Photovoltaic%20Sheets%20as%20Indoor%20Interactive%20Surfaces.pdf)
+[SelfSustainableCHI 2020 Workshop Paper](https://cs.swansea.ac.uk/~SelfSustainableCHI/papers/Potential%20of%20Large%20Area%20Photovoltaic%20Sheets%20as%20Indoor%20Interactive%20Surfaces.pdf)
 
-[Proposal on GitHub](Potential%20of%20Large%20Area%20Photovoltaic%20Sheets%20as%20Indoor%20Interactive%20Surfaces.pdf)
+[SelfSustainableCHI 2020 Workshop Paper on GitHub](Potential%20of%20Large%20Area%20Photovoltaic%20Sheets%20as%20Indoor%20Interactive%20Surfaces.pdf)
 
 [Thesis](879091__Feasibility_of_Large-Area_Photovoltaic_Sheets_as_Indoor_Interactive_Surfaces.pdf)
 
